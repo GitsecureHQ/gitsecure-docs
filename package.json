@@ -1,4 +1,12 @@
 {
+	"name": "gitsecure-docs",
+	"version": "0.0.1",
+	"description": "Official documentation for Gitsecure a modern SecretOps infrastructure for developers.",
+	"scripts": {
+	  "dev": "next dev",
+	  "build": "next build",
+	  "start": "next start"
+	},
 	"dependencies": {
 		"next": "^13.2.1",
 		"react": "^18.2.0",
