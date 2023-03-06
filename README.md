@@ -1,6 +1,6 @@
-# PipeOps Documentation
+# Gitsecure Documentation
 
-Official documentation for PipeOps a No-code Tool for Cloud Deployments & Infrastructure Management.
+Official Documentation For Gitsecure A Modern SecretOps Infrastructure For Developers.
 
 ## Local Development
 
