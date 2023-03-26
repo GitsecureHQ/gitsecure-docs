@@ -12,5 +12,3 @@ Then, run `pnpm dev` to start the development server and visit localhost:3000.
 
 This project is licensed under the MIT License.
 
-
-....
