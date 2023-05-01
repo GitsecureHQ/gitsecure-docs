@@ -1,7 +1,0 @@
-{
-  "setup": "Quick Setup",
-  "deploy": "Deploy",
-  "domain": "Add Domain Name",
-  "env": "Environment Variables",
-  "changes": "Make Changes"
-}

@@ -1,33 +1,7 @@
 {
-  "index": "Welcome 👋🏽",
-  "getting-started": "Get Started",
-  "integrations": "Integrations 🛠️",
-  "servers": "Servers ☁️",
-  "addons": "Addons 📙",
-  "-- About --": {
-    "type": "separator",
-    "title": "Learn"
-  },
-  "Twitter link": {
-    "title": "Twitter ↗",
-    "href": "https://twitter.com/pipeopshq",
-    "newWindow": true
-  },
-  "Linkedin link": {
-    "title": "Linkedin ↗",
-    "href": "https://www.linkedin.com/company/pipeops/",
-    "newWindow": true
-  },
-  "Discord link": {
-    "title": "Discord ↗",
-    "href": "https://discord.gg/xDFGwDZp",
-    "newWindow": true
-  },
-  "Blog link": {
-    "title": "Blog ↗",
-    "href": "https://blog.pipeops.io/",
-    "newWindow": true
+  "docs": {
+    "type": "page",
+    "title": "Documentation",
+    "display": "hidden"
   }
 }
-	
-
