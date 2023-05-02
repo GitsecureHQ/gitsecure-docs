@@ -1,6 +1,14 @@
 {
   "index": "Introduction",
   "guide": "",
+  "-- Command Line": {
+    "type": "separator",
+    "title": "Command Line"
+  },
+  "-- Integrations": {
+    "type": "separator",
+    "title": "Integrations"
+  },
   "-- Themes": {
     "type": "separator",
     "title": "Themes"
@@ -12,13 +20,26 @@
     "type": "separator",
     "title": "More"
   },
-  "about-link": {
-    "title": "About Nextra",
-    "href": "/about"
-  },
-  "next.js-link": {
-    "title": "Next.js Docs ↗",
-    "href": "https://nextjs.org?utm_source=nextra.site&utm_medium=referral&utm_campaign=sidebar",
+  "blog-link": {
+    "title": "Blog ↗",
+    "href": "#",
     "newWindow": true
+  },
+  "twitter-link": {
+    "title": "Twitter ↗",
+    "href": "#"
+  },
+  "linkedin-link": {
+    "title": "Linkedin ↗",
+    "href": "#"
+  },
+  "changelog-link": {
+    "title": "Changelog ↗",
+    "href": "#",
+    "newWindow": true
+  },
+  "community-link": {
+    "title": "Community ↗",
+    "href": "#"
   }
 }
