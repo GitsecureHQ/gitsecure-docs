@@ -42,11 +42,11 @@ const logo = (
 )
 
 const config: DocsThemeConfig = {
-//  project: {
-//    link: 'https://github.com/GitsecureHQ/gitsecure-docs',
-//  },
+  project: {
+    link: 'https://github.com/GitsecureHQ/gitsecure-docs',
+  },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/u5tkbCnP3G',
   },
   docsRepositoryBase: 'https://github.com/GitsecureHQ/gitsecure-docs',
   useNextSeoProps() {

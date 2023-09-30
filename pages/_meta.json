@@ -1,7 +1,30 @@
 {
-  "docs": {
-    "type": "page",
-    "title": "Documentation",
-    "display": "hidden"
+  "-- Get Started": {
+    "type": "separator",
+    "title": "Get Started"
+  },
+  "index": "Welcome🚀",
+  "quickstart": "Quickstart✍️",
+  "-- Setup Monitoring": {
+    "type": "separator",
+    "title": "Setup Monitoring"
+  },
+  "install-app": "Install App🌐",
+  "repository": "Repository📂",
+  "-- More": {
+    "type": "separator",
+    "title": "More"
+  },
+  "twitter-link": {
+    "title": "Twitter ↗",
+    "href": "https://twitter.com/gitsecure"
+  },
+  "linkedin-link": {
+    "title": "Linkedin ↗",
+    "href": "https://www.linkedin.com/company/gitsecure"
+  },
+  "community-link": {
+    "title": "Community ↗",
+    "href": "https://discord.gg/u5tkbCnP3G"
   }
 }
