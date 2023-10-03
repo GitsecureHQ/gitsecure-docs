@@ -54,7 +54,7 @@ const config: DocsThemeConfig = {
           name="og:title"
           content={title ? title + " – Gitsecure Docs" : "Gitsecure Docs"}
         />
-        <meta name="og:image" content={socialCard} />
+        <meta name="og:image" content="/gsdocs-preview.png" />
         <meta name="apple-mobile-web-app-title" content="Gitsecure Docs" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="icon" href="/logo/gs-light.svg" type="image/svg+xml" />
