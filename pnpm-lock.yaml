@@ -21,8 +21,8 @@ dependencies:
     specifier: ^2.4.2
     version: 2.4.2(next@13.1.1)(react-dom@18.2.0)(react@18.2.0)
   nextra-logo:
-    specifier: 0.1.3
-    version: 0.1.3(next@13.1.1)(react-dom@18.2.0)(react@18.2.0)
+    specifier: 0.1.3-beta.1
+    version: 0.1.3-beta.1(next@13.1.1)(react-dom@18.2.0)(react@18.2.0)
   nextra-theme-docs:
     specifier: ^2.4.2
     version: 2.4.2(next@13.1.1)(nextra@2.4.2)(react-dom@18.2.0)(react@18.2.0)
@@ -2371,8 +2371,8 @@ packages:
       - babel-plugin-macros
     dev: false
 
-  /nextra-logo@0.1.3(next@13.1.1)(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-p0wgKYDpX2KimAhAwmJk0xmVcyWH4oN6ztY6uKND5P559ET16xITh2jt4Rlmbor3RPEkEYc1l18OJAw3DGTP+w==}
+  /nextra-logo@0.1.3-beta.1(next@13.1.1)(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-khg6ZEhwJuuVEOWYCQFMwawcyiAT0CBoANLxueLz2Ims5gvoiDwwhFZvFgnBGOYon7g1dhHbq7GLH0xDV9xoBw==}
     peerDependencies:
       react: '>=16'
     dependencies:
