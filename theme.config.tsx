@@ -40,22 +40,22 @@ const config: DocsThemeConfig = {
         <meta httpEquiv="Content-Language" content="en" />
         <meta
           name="description"
-          content="Make beautiful websites with Next.js & MDX."
+          content="A platform for for secret monitoring and scanning infrastructure, tailored specifically for developers and teams."
         />
         <meta
           name="og:description"
-          content="Make beautiful websites with Next.js & MDX."
+          content="A platform for for secret monitoring and scanning infrastructure, tailored specifically for developers and teams."
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content={socialCard} />
-        <meta name="twitter:site:domain" content="nextra.site" />
-        <meta name="twitter:url" content="https://nextra.site" />
+        <meta name="twitter:image" content="/gsdocs-preview.png" />
+        <meta name="twitter:site:domain" content="docs.gitsecure.dev" />
+        <meta name="twitter:url" content="docs.gitsecure.dev" />
         <meta
           name="og:title"
-          content={title ? title + " – Nextra" : "Nextra"}
+          content={title ? title + " – Gitsecure Docs" : "Gitsecure Docs"}
         />
         <meta name="og:image" content={socialCard} />
-        <meta name="apple-mobile-web-app-title" content="Nextra" />
+        <meta name="apple-mobile-web-app-title" content="Gitsecure Docs" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="icon" href="/logo/gs-light.svg" type="image/svg+xml" />
         <link
