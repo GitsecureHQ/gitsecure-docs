@@ -4,7 +4,14 @@ import { useRouter } from "next/router";
 import { Logo } from "nextra-logo";
 
 const logo = (
-  <Logo dark="/logo/gs-dark.svg" light="/logo/gs-light.svg" size="50" />
+  <Logo
+    dark="/logo/gs-dark.svg"
+    light="/logo/gs-light.svg"
+    size="50"
+    logoText="Gitsecure"
+    textWeight="700"
+    textSize="20"
+  />
 );
 
 const config: DocsThemeConfig = {
