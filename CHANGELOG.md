@@ -1,3 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [0.0.4](https://github.com/GitsecureHQ/gitsecure-docs/compare/v0.0.3...v0.0.4) (2023-10-04)
+
+
+### Bug Fixes
+
+* update pnpm lockfile to mitigate build error ([a8a054c](https://github.com/GitsecureHQ/gitsecure-docs/commit/a8a054c4d0f6d1c4e35fd77c33d406c410354f21))
+
 ## <small>0.0.3 (2023-10-04)</small>
 
 - chore(deps): add dependencies ([d1f1b99](https://github.com/GitsecureHQ/gitsecure-docs/commit/d1f1b99))
