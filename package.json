@@ -6,7 +6,7 @@
     "start": "next start",
     "build": "next build",
     "release": "standard-version",
-    "changelog": "conventional-changelog -p -i angular CHANGELOG.md -s -r 0",
+    "changelog": "conventional-changelog -p -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md && git commit -m 'chore: update changelog'",
     "changelog-first-release": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 --first-release"
   },
   "authors": ["Daniel Adeboye", "kaf-lamed-beyt"],
