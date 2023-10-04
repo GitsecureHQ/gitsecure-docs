@@ -1,3 +1,19 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.0.2 (2023-10-04)
+
+
+### Features
+
+* images ([e26dde8](https://github.com/GitsecureHQ/gitsecure-docs/commit/e26dde8069bfc054cf17772cbf3258ad44083ae3))
+* major nextra config ([399ed6b](https://github.com/GitsecureHQ/gitsecure-docs/commit/399ed6b1c792064cb3a342007992b19a2ae92fed))
+* new setup ([e63b644](https://github.com/GitsecureHQ/gitsecure-docs/commit/e63b644b5e3f60cc300e16e9a2ffa534adcf01b3))
+* quick start ([095363f](https://github.com/GitsecureHQ/gitsecure-docs/commit/095363fb5df44bdd6687821f7cdc84acd412095f))
+* repo docs ([a7886f7](https://github.com/GitsecureHQ/gitsecure-docs/commit/a7886f7497f29069fc578163ca266b22a6a516ad))
+* welcome page ([df409cd](https://github.com/GitsecureHQ/gitsecure-docs/commit/df409cd00837d0562a8a15b008c15fbe7637d69a))
+
 # docs
 
 ## null
