@@ -7,7 +7,7 @@
   "quickstart": "Quickstart✍️",
   "-- Setup Monitoring": {
     "type": "separator",
-    "title": "Setup Monitoring"
+    "title": "Add Monitoring"
   },
   "install-app": "Install App🌐",
   "-- More": {
