@@ -47,11 +47,11 @@ const config: DocsThemeConfig = {
         <meta httpEquiv="Content-Language" content="en" />
         <meta
           name="description"
-          content="A platform for for secret monitoring and scanning infrastructure, tailored specifically for developers and teams."
+          content="AI-powered developer security platform for modern teams."
         />
         <meta
           name="og:description"
-          content="A platform for for secret monitoring and scanning infrastructure, tailored specifically for developers and teams."
+          content="AI-powered developer security platform for modern teams."
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content="/gsdocs-preview.png" />
