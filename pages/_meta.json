@@ -1,15 +1,16 @@
 {
+  "index": "Introduction",
   "-- Get Started": {
     "type": "separator",
     "title": "Get Started"
   },
-  "index": "Welcome🚀",
-  "quickstart": "Quickstart✍️",
+  "quickstart": "Quickstart",
+  "setup": "Setup",
   "-- Setup Monitoring": {
     "type": "separator",
-    "title": "Add Monitoring"
+    "title": "Integrations"
   },
-  "install-app": "Install App🌐",
+  "github": "GitHub",
   "-- More": {
     "type": "separator",
     "title": "More"
