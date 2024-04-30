@@ -11,6 +11,7 @@
     "title": "Integrations"
   },
   "github": "GitHub",
+  "slack": "Slack",
   "-- Features": {
     "type": "separator",
     "title": "Features"
