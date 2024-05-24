@@ -19,6 +19,11 @@
   "code": "Code Scanning",
   "secrets": "Secrets Scanning",
   "companion": "AI Companion",
+  "-- Products": {
+    "type": "separator",
+    "title": "Products"
+  },
+  "wasps": "Wasps",
   "-- Privacy": {
     "type": "separator",
     "title": "Privacy"
