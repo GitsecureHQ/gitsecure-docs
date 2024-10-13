@@ -18,8 +18,8 @@
   },
   "code": "Code Scanning",
   "secrets": "Secrets Scanning",
+  "iac": "IaC Security",
   "companion": "AI Companion",
-  "iac": "IaC Security"
   "-- Products": {
     "type": "separator",
     "title": "Products"
