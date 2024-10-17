@@ -12,6 +12,7 @@
   },
   "github": "GitHub",
   "slack": "Slack",
+  "gitlab": "GitLab",
   "-- Features": {
     "type": "separator",
     "title": "Features"
